@@ -1,8 +1,4 @@
 
-
-## <center style="color:#a00000;">– Софтверско инжењерство 2023/2024. – </center>
-___
-
 ## Sistem za prodaju kolača u poslastičarnici
 
 ## Opis projekta
